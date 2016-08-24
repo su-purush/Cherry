@@ -1,0 +1,200 @@
+06:30:21.195 Got a kill message. Killing runner.
+06:31:01.333 Checking updates...
+06:31:06.904 # Specification Heading
+06:31:06.905 ## Vowel counts in single word
+06:31:06.908 * Vowels in English language are "aeiou".
+
+06:31:06.928 * The word "gauge" has "3" vowels.
+
+06:31:06.937 ## Vowel counts in multiple word
+06:31:06.939 * Vowels in English language are "aeiou".
+
+06:31:06.941 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+06:31:12.674 Plugin [Html Report] with pid [15496] has exited
+06:31:12.877 Specifications:	1 executed	1 passed	0 failed	0 skipped
+06:31:12.877 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+06:31:12.878 
+Total time taken: 566ms
+06:44:36.831 [ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => ''
+06:44:38.477 Checking updates...
+06:45:06.855 Runner connection error: Timed out connecting to [::]:64174
+06:45:06.855 Error while killing runner: invalid argument
+06:45:06.855 Failed to start gauge API: Timed out connecting to [::]:64174
+06:46:31.056 [ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => ''
+06:46:32.457 Checking updates...
+06:47:26.321 [ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => ''
+06:47:27.775 Checking updates...
+06:49:22.751 [ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => ''
+06:49:24.362 Checking updates...
+06:51:23.974 [ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => ''
+06:51:26.554 Checking updates...
+06:52:26.652 Checking updates...
+06:52:30.592 C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec: No scenarios found in spec
+06:52:30.700 Plugin [Html Report] with pid [1764] has exited
+06:52:30.902 Specifications:	0 executed	0 passed	0 failed	1 skipped
+06:52:30.902 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+06:52:30.902 
+Total time taken: 89ms
+06:54:51.590 Checking updates...
+06:54:55.193 # Specification Heading
+06:54:55.195 C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:4 No steps found in scenario
+06:54:55.356 Plugin [Html Report] with pid [13608] has exited
+06:54:55.563 Specifications:	0 executed	0 passed	0 failed	1 skipped
+06:54:55.563 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+06:54:55.564 
+Total time taken: 104ms
+06:55:33.090 Checking updates...
+06:55:36.189 # Specification Heading
+06:55:36.191 ## Vowel counts in single word
+06:55:36.192 * Vowels in English language are "aeiou".
+06:55:36.322 Plugin [Html Report] with pid [11252] has exited
+06:55:36.523 Specifications:	1 executed	1 passed	0 failed	0 skipped
+06:55:36.523 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06:55:36.523 
+Total time taken: 115ms
+06:56:50.035 Checking updates...
+06:56:53.553 # Specification Heading
+06:56:53.555 ## Vowel counts in single word
+06:56:53.556 * print helo world
+06:56:53.677 Plugin [Html Report] with pid [10024] has exited
+06:56:54.078 Specifications:	1 executed	1 passed	0 failed	0 skipped
+06:56:54.078 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06:56:54.078 
+Total time taken: 111ms
+06:58:40.666 Checking updates...
+06:58:44.301 [ValidationError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:6: Duplicate step implementation => 'print helo world'
+06:58:44.482 Plugin [Html Report] with pid [11112] has exited
+06:58:44.689 Specifications:	0 executed	0 passed	0 failed	1 skipped
+06:58:44.689 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+06:58:44.689 
+Total time taken: 66ms
+11:15:18.045 Checking updates...
+11:15:46.382 Runner connection error: Timed out connecting to [::]:63006
+11:15:46.382 Error while killing runner: invalid argument
+11:15:46.382 Failed to start gauge API: Timed out connecting to [::]:63006
+11:47:01.629 Checking updates...
+11:47:29.120 Runner connection error: Timed out connecting to [::]:55565
+11:47:29.120 Error while killing runner: invalid argument
+11:47:29.120 Failed to start gauge API: Timed out connecting to [::]:55565
+11:50:15.645 Checking updates...
+11:50:44.341 Runner connection error: Timed out connecting to [::]:55700
+11:50:44.341 Error while killing runner: invalid argument
+11:50:44.341 Failed to start gauge API: Timed out connecting to [::]:55700
+15:16:23.894 Checking updates...
+15:16:49.235 Runner connection error: Timed out connecting to [::]:63213
+15:16:49.235 Error while killing runner: invalid argument
+15:16:49.296 Failed to start gauge API: Timed out connecting to [::]:63213
+15:18:33.835 Checking updates...
+15:19:02.287 Runner connection error: Timed out connecting to [::]:63252
+15:19:02.287 Error while killing runner: invalid argument
+15:19:02.287 Failed to start gauge API: Timed out connecting to [::]:63252
+15:19:26.834 Checking updates...
+15:26:05.848 Checking updates...
+15:26:34.209 Runner connection error: Timed out connecting to [::]:63395
+15:26:34.209 Error while killing runner: invalid argument
+15:26:34.209 Failed to start gauge API: Timed out connecting to [::]:63395
+15:27:45.261 Checking updates...
+15:28:13.862 Runner connection error: Timed out connecting to [::]:63418
+15:28:13.863 Error while killing runner: invalid argument
+15:28:13.863 Failed to start gauge API: Timed out connecting to [::]:63418
+15:28:26.944 Checking updates...
+15:29:12.892 Checking updates...
+15:29:41.431 Runner connection error: Timed out connecting to [::]:63456
+15:29:41.431 Error while killing runner: invalid argument
+15:29:41.431 Failed to start gauge API: Timed out connecting to [::]:63456
+15:30:11.335 Checking updates...
+15:30:39.944 Runner connection error: Timed out connecting to [::]:55249
+15:30:39.944 Error while killing runner: invalid argument
+15:30:39.944 Failed to start gauge API: Timed out connecting to [::]:55249
+15:33:10.915 Checking updates...
+15:33:39.256 Runner connection error: Timed out connecting to [::]:61039
+15:33:39.256 Error while killing runner: invalid argument
+15:33:39.256 Failed to start gauge API: Timed out connecting to [::]:61039
+15:52:37.291 Checking updates...
+15:53:05.611 Runner connection error: Timed out connecting to [::]:65380
+15:53:05.611 Error while killing runner: invalid argument
+15:53:05.611 Failed to start gauge API: Timed out connecting to [::]:65380
+15:54:15.744 Checking updates...
+15:54:44.453 Runner connection error: Timed out connecting to [::]:65421
+15:54:44.453 Error while killing runner: invalid argument
+15:54:44.453 Failed to start gauge API: Timed out connecting to [::]:65421
+15:55:01.061 Checking updates...
+15:55:29.710 Runner connection error: Timed out connecting to [::]:65432
+15:55:29.710 Error while killing runner: invalid argument
+15:55:29.710 Failed to start gauge API: Timed out connecting to [::]:65432
+15:56:22.474 Checking updates...
+15:57:12.114 Checking updates...
+15:57:18.730 # Specification Heading
+15:57:18.756 ## Vowel counts in single word
+15:57:18.785 * print helo world
+15:57:19.228 Plugin [Html Report] with pid [18840] has exited
+15:57:19.429 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:57:19.429 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:57:19.443 
+Total time taken: 396ms
+16:02:10.492 Got a kill message. Killing runner.
+16:26:24.077 Checking updates...
+16:26:27.956 # Specification Heading
+16:26:27.957 ## Vowel counts in single word
+16:26:27.959 * Vowels in English language are "aeiou".
+
+16:26:28.001 * The word "gauge" has "3" vowels.
+
+16:26:28.010 ## Vowel counts in multiple word
+16:26:28.012 * Vowels in English language are "aeiou".
+
+16:26:28.014 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+16:26:28.022 # Specification Heading
+16:26:28.024 ## Vowel counts in single word
+16:26:28.025 * print helo world
+16:26:28.131 Plugin [Html Report] with pid [17684] has exited
+16:26:28.344 Specifications:	2 executed	2 passed	0 failed	0 skipped
+16:26:28.344 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+16:26:28.344 
+Total time taken: 153ms
+16:27:55.353 Checking updates...
+16:27:59.141 # Specification Heading
+16:27:59.143 ## Vowel counts in single word
+16:27:59.144 * Vowels in English language are "aeiou".
+
+16:27:59.168 * The word "gauge" has "3" vowels.
+
+16:27:59.178 ## Vowel counts in multiple word
+16:27:59.180 * Vowels in English language are "aeiou".
+
+16:27:59.183 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+16:27:59.191 # Specification Heading
+16:27:59.193 ## Vowel counts in single word
+16:27:59.194 * print helo world
+16:28:30.534 Plugin [Html Report] with pid [17896] has exited
+16:28:31.336 Specifications:	2 executed	2 passed	0 failed	0 skipped
+16:28:31.336 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+16:28:31.336 
+Total time taken: 31.268s
+15:15:11.635 Runner connection error: Timed out connecting to [::]:51294
+15:15:11.678 Error while killing runner: invalid argument
+15:15:11.678 Killing Gauge daemon. Timed out connecting to [::]:51294

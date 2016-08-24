@@ -1,0 +1,215 @@
+06:30:17.978 Watching directory: C:\Users\yanamalp\workspace\Cherry\specs
+06:30:17.980 Found 1 files
+06:30:17.979 Initializing concepts cache with 0 concepts
+06:30:17.989 Initializing specs cache with 1 specs
+06:30:17.990 Adding specs from C:\Users\yanamalp\workspace\Cherry\specs\example.spec
+06:30:17.990 Initializing steps cache with 3 steps
+06:30:18.453 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+06:30:18.457 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\yanamalp\\AppData\\Roaming\\gauge\\plugins\\java\\0.5.0\\libs" > 
+06:30:23.315 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:30:23.317 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:30:23.333 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:30:23.334 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:30:23.339 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:30:23.340 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:39:10.371 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:39:10.372 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:39:24.308 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:39:24.316 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:39:24.316 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:39:24.317 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:40:46.106 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:40:46.119 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:40:46.119 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:40:46.120 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:48:52.578 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:48:52.585 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:48:52.585 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:48:52.586 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:51:16.067 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:51:16.075 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:51:16.075 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:51:16.076 Spec Parse failure: [[ParseError] C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec:1 Spec does not have any elements => '']
+06:52:21.043 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:52:21.232 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:54:36.771 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:54:36.790 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:55:25.174 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:55:25.219 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:56:40.131 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+06:56:40.142 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+11:46:37.175 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\example.spec
+11:46:37.233 Spec file added / modified: C:\Users\yanamalp\workspace\Cherry\specs\example.spec
+ng API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:47:32.253 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:47:32.253 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:47:32.254 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:47:32.254 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:47:32.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:47:32.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:49:27.613 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:49:27.614 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:49:27.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:49:27.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:49:27.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:49:27.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:49:27.629 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:49:27.629 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:51:28.807 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:51:28.809 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:51:28.818 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:51:28.819 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:51:28.820 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:51:28.821 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:51:28.823 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:51:28.824 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:52:30.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:52:30.373 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:52:30.385 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:52:30.386 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:52:30.387 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:52:30.387 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:52:30.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:52:30.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:54:54.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:54:54.961 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:54:54.973 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:54:54.974 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:54:54.975 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:54:54.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:54:54.977 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:54:54.977 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:55:35.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:55:35.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:55:35.951 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:55:35.951 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:55:35.952 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:55:35.952 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:55:35.954 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:55:35.954 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:56:53.323 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:56:53.324 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:56:53.336 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:56:53.336 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:56:53.337 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:56:53.338 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:56:53.339 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:56:53.339 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:58:44.155 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+06:58:44.156 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+06:58:44.166 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:58:44.166 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+06:58:44.167 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+06:58:44.167 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+06:58:44.168 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+06:58:44.169 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+06:58:44.170 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+06:58:44.171 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+15:57:18.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:57:18.273 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:57:18.282 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:57:18.282 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:57:18.283 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:57:18.284 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:57:18.285 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+15:57:18.285 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+16:02:05.758 Initializing concepts cache with 0 concepts
+16:02:05.764 Initializing specs cache with 2 specs
+16:02:05.764 Adding specs from C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+16:02:05.764 Adding specs from C:\Users\yanamalp\workspace\Cherry\specs\example.spec
+16:02:05.764 Initializing steps cache with 4 steps
+16:02:05.777 Watching directory: C:\Users\yanamalp\workspace\Cherry\specs
+16:02:05.779 Found 2 files
+16:02:06.756 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+16:02:06.760 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\yanamalp\\AppData\\Roaming\\gauge\\plugins\\java\\0.5.0\\libs" > 
+16:02:13.574 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+16:02:13.579 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+16:02:13.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+16:02:13.590 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+16:02:13.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+16:02:13.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+16:02:13.595 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+16:02:13.595 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+16:22:54.904 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+16:22:54.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+16:22:55.002 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+16:22:55.003 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+16:22:55.004 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+16:22:55.004 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+16:22:55.005 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+16:22:55.005 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+16:22:55.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+16:22:55.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+16:22:55.130 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search for customer <name>" hasInlineTable:false > 
+16:22:55.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search for customer {}" parameterizedStepValue:"Search for customer <name>" parameters:"name" > > 
+16:22:55.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The customer <name> is listed" hasInlineTable:false > 
+16:22:55.136 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The customer {} is listed" parameterizedStepValue:"The customer <name> is listed" parameters:"name" > > 
+16:22:55.140 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search for customers <table>" hasInlineTable:false > 
+16:22:55.140 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search for customers {}" parameterizedStepValue:"Search for customers <table>" parameters:"table" > > 
+16:22:55.141 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Just registered customer is listed" hasInlineTable:false > 
+16:22:55.141 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Just registered customer is listed" parameterizedStepValue:"Just registered customer is listed" > > 
+16:22:55.201 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create a product <table>" hasInlineTable:false > 
+16:22:55.204 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create a product {}" parameterizedStepValue:"Create a product <table>" parameters:"table" > > 
+16:22:55.209 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On product page" hasInlineTable:false > 
+16:22:55.209 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On product page" parameterizedStepValue:"On product page" > > 
+16:22:55.212 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search for product <name>" hasInlineTable:false > 
+16:22:55.212 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search for product {}" parameterizedStepValue:"Search for product <name>" parameters:"name" > > 
+16:22:55.214 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open description for product <name>" hasInlineTable:false > 
+16:22:55.214 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open description for product {}" parameterizedStepValue:"Open description for product <name>" parameters:"name" > > 
+16:22:55.215 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify product <specifier> as <value>" hasInlineTable:false > 
+16:22:55.215 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify product {} as {}" parameterizedStepValue:"Verify product <specifier> as <value>" parameters:"specifier" parameters:"value" > > 
+16:22:55.216 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete this product" hasInlineTable:false > 
+16:22:55.216 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete this product" parameterizedStepValue:"Delete this product" > > 
+16:22:55.217 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On new products page" hasInlineTable:false > 
+16:22:55.217 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On new products page" parameterizedStepValue:"On new products page" > > 
+16:22:55.219 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open product edit page for stored productId" hasInlineTable:false > 
+16:22:55.219 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open product edit page for stored productId" parameterizedStepValue:"Open product edit page for stored productId" > > 
+16:22:55.220 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Update product specifier to new value <table>" hasInlineTable:false > 
+16:22:55.220 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Update product specifier to new value {}" parameterizedStepValue:"Update product specifier to new value <table>" parameters:"table" > > 
+16:22:55.224 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check product specifier has new value <table>" hasInlineTable:false > 
+16:22:55.224 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check product specifier has new value {}" parameterizedStepValue:"Check product specifier has new value <table>" parameters:"table" > > 
+16:22:55.241 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On signup page" hasInlineTable:false > 
+16:22:55.242 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On signup page" parameterizedStepValue:"On signup page" > > 
+16:22:55.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill in and send registration form" hasInlineTable:false > 
+16:22:55.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill in and send registration form" parameterizedStepValue:"Fill in and send registration form" > > 
+16:22:57.522 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sign up a new customer" hasInlineTable:false > 
+16:22:57.523 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sign up a new customer" parameterizedStepValue:"Sign up a new customer" > > 
+16:23:24.285 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search for customer \"ScroogeMcduck\"" hasInlineTable:false > 
+16:23:24.285 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search for customer {}" parameterizedStepValue:"Search for customer <ScroogeMcduck>" parameters:"ScroogeMcduck" > > 
+16:23:24.462 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The customer \"ScroogeMcduck\" is listed" hasInlineTable:false > 
+16:23:24.463 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The customer {} is listed" parameterizedStepValue:"The customer <ScroogeMcduck> is listed" parameters:"ScroogeMcduck" > > 
+16:23:24.686 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search for customers <table:resources/user.csv>" hasInlineTable:false > 
+16:23:24.686 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search for customers {}" parameterizedStepValue:"Search for customers <table:resources/user.csv>" parameters:"table:resources/user.csv" > > 
+16:25:49.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." hasInlineTable:false > 
+16:25:49.889 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+16:25:50.097 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word \"gauge\" has \"3\" vowels." hasInlineTable:false > 
+16:25:50.097 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > > 
+16:25:50.313 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <table>" hasInlineTable:false > 
+16:25:50.313 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+16:26:27.717 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+16:26:27.718 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+16:26:27.727 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+16:26:27.727 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+16:26:27.728 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+16:26:27.729 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+16:26:27.730 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+16:26:27.730 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+16:27:58.910 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+16:27:58.911 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+16:27:58.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+16:27:58.924 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+16:27:58.925 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+16:27:58.925 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+16:27:58.926 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"print helo world" hasInlineTable:false > 
+16:27:58.926 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"print helo world" parameterizedStepValue:"print helo world" > > 
+15:14:40.656 Watching directory: C:\Users\yanamalp\workspace\Cherry\specs
+15:14:40.723 Found 2 files
+15:14:40.761 Initializing concepts cache with 0 concepts
+15:14:40.929 Initializing specs cache with 2 specs
+15:14:40.929 Adding specs from C:\Users\yanamalp\workspace\Cherry\specs\heloworld.spec
+15:14:40.929 Adding specs from C:\Users\yanamalp\workspace\Cherry\specs\example.spec
+15:14:40.929 Initializing steps cache with 4 steps
+15:14:42.185 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+15:14:42.189 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\yanamalp\\AppData\\Roaming\\gauge\\plugins\\java\\0.5.0\\libs" > 
+15:14:42.192 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+15:14:42.195 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\yanamalp\\AppData\\Roaming\\gauge\\plugins\\java\\0.5.0\\libs" > 
